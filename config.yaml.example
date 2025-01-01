@@ -1,0 +1,6 @@
+# config.yaml.example - Template for local development
+# Copy this to config.yaml and update with your actual values
+
+development:
+  earth_engine:
+    project_id: "your-gcp-project-id"

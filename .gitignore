@@ -1,0 +1,17 @@
+tests/assets/
+config.yaml
+# Streamlit secrets — never commit (may contain the GCP service-account key)
+.streamlit/secrets.toml
+secrets.toml
+venv/
+smenv/
+.DS_Store
+CLAUDE.md
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
